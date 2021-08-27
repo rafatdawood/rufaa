@@ -111,7 +111,7 @@ h1 {
 	}
 	.img {
 		width: 47%;
-		background-image: url('rufaa/image-header-desktop.jpg');
+		background-image: url('image-header-desktop.jpg');
 	}
 	h1 {
 		grid-area: 2/2/3/3;
@@ -152,7 +152,7 @@ h1 {
 	.img {
 		width: 100%;
 		height: 33.33%;
-		background-image: url('rufaa/image-header-mobile.jpg');
+		background-image: url('image-header-mobile.jpg');
 	}
 	.title {
 		width: 100%;
